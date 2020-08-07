@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-pip install lds-merkle-proof-2019
+pip install lds-merkle-proof-2019-bloxberg
 ```
 
 ## Usage

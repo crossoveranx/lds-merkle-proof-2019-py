@@ -19,7 +19,7 @@ setup(
     install_requires=reqs,
     url='https://github.com/crossoveranx/lds-merkle-proof-2019-py',
     license='MIT',
-    author='Bloxberg',
+    author='bloxberg',
     author_email='info@bloxberg.org',
     description='MerkleProof2019 module for python',
     long_description=long_description,
