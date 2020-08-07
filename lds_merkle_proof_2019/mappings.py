@@ -24,7 +24,8 @@ chain = {
     'networks': {
       'mainnet': 1,
       'ropsten': 3,
-      'rinkeby': 4
+      'rinkeby': 4,
+      'bloxberg': 8995
     }
   },
   'mocknet': {

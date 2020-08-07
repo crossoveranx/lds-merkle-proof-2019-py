@@ -13,14 +13,14 @@ with open('requirements.txt') as f:
     reqs = [str(ir) for ir in install_reqs]
 
 setup(
-    name='lds-merkle-proof-2019',
+    name='lds-merkle-proof-2019-bloxberg',
     version=__version__,
     packages=find_packages(),
     install_requires=reqs,
-    url='https://github.com/blockchain-certificates/lds-merkle-proof-2019-py',
+    url='https://github.com/crossoveranx/lds-merkle-proof-2019-py',
     license='MIT',
-    author='Blockcerts',
-    author_email='info@blockcerts.org',
+    author='Bloxberg',
+    author_email='info@bloxberg.org',
     description='MerkleProof2019 module for python',
     long_description=long_description,
     long_description_content_type='text/markdown',
